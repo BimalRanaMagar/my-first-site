@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    font-size:x-large;
+    font-family: fantasy;
+    font-style: initial;
+    color:rgb(250, 249, 249);
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    display: inline;
+    margin-left: 20px;
+    margin-right: 10px;}
+nav{
+   background-color:rgb(34, 51, 34);
+    height: 30px;
+    padding: 15px;
+}
+.maq{
+    background-color: rgb(222, 44, 50);
+    color: black;
+    font-size: medium;
+    height:17px;
+    display: flex;
+}
+.guku{
+text-align: right;
+    color: black;
+
+}
